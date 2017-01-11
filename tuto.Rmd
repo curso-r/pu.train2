@@ -1,0 +1,15 @@
+---
+title: "PU"
+output: html_document
+---
+
+Isso é um Power UP
+
+I LOVE THE WAY U R.
+
+```{r}
+1 + 1
+```
+
+
+
