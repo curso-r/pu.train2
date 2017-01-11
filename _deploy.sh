@@ -14,4 +14,3 @@ cp -r ../content/* ./
 git add --all *
 git commit -m "Update the PU" || true
 git push origin content
-
