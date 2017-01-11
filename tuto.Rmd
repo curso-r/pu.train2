@@ -11,5 +11,8 @@ I LOVE THE WAY U R.
 1 + 1
 ```
 
+```{r}
+plot(1:10)
+```
 
 
